@@ -1,0 +1,22 @@
+/*
+   Either one of these work. The second one goes by class and the first one goes by element type
+*/
+
+
+/*
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
